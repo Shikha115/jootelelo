@@ -41,7 +41,7 @@ import Account from '../account';
                                                 </div>
                                                 <div className="col-md-4"></div>
                                                 <div className="col-md-2 text_right">
-                                                    <Link to="http://site.udoobu.com/account/orders/103" className="btn-sm btn btn-dark mb-2">View Order</Link>
+                                                    <Link to="/view-order" className="btn-sm btn btn-dark mb-2">View Order</Link>
                                                     <Link to="http://site.udoobu.com/account/orders/103/cancel" className="btn-sm btn btn-danger">Cancel Order</Link>
                                                 </div>
                                             </div>                                               
@@ -69,7 +69,7 @@ import Account from '../account';
                                                 </div>
                                                 <div className="col-md-4"></div>
                                                 <div className="col-md-2 text_right">
-                                                    <Link to="http://site.udoobu.com/account/orders/103" className="btn-sm btn btn-dark mb-2">View Order</Link>
+                                                    <Link to="/view-order" className="btn-sm btn btn-dark mb-2">View Order</Link>
                                                     <Link to="http://site.udoobu.com/account/orders/103/cancel" className="btn-sm btn btn-danger">Cancel Order</Link>
                                                 </div>
                                             </div>                                               
@@ -97,7 +97,7 @@ import Account from '../account';
                                                 </div>
                                                 <div className="col-md-4"></div>
                                                 <div className="col-md-2 text_right">
-                                                    <Link to="http://site.udoobu.com/account/orders/103" className="btn-sm btn btn-dark mb-2">View Order</Link>
+                                                    <Link to="/view-order" className="btn-sm btn btn-dark mb-2">View Order</Link>
                                                     <Link to="http://site.udoobu.com/account/orders/103/cancel" className="btn-sm btn btn-danger">Cancel Order</Link>
                                                 </div>
                                             </div>                                               

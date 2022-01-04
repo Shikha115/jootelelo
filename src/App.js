@@ -14,6 +14,7 @@ import AccountOrder from './components/account/account-order';
 import AccountWishlist from './components/account/account-wishlist';
 import AccountReview from './components/account/account-review';
 import AccountAddress from './components/account/account-address';
+import ViewOrder from './components/view-order';
 
 
 
@@ -36,6 +37,7 @@ function App() {
                         <Route path = '/account/address' element={<AccountAddress />} />
                         <Route path = '/cart' element={<Cart />} />
                         <Route path = '/faq' element={<Faq />} />
+                        <Route path = '/view-order' element={<ViewOrder />} />
                     </Routes> 
                 </main> 
             <Footer />
